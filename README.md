@@ -5,12 +5,7 @@ This is a basic calculator built using HTML, CSS, and JavaScript. The project is
 ### Project Overview
 ### Features
 ### Technologies Used
-### Installation
-### Usage
-### Responsive Design
-### Project Structure
-### Contributing
-### License
+
 
 # Project Overview
 This calculator provides an interactive interface to perform basic arithmetic operations. It includes buttons for numbers, operators, and functionalities like clearing the input and calculating the result. This project demonstrates the use of HTML for structure, CSS for styling, and JavaScript for logic.
