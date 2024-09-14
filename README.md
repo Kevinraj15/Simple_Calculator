@@ -16,21 +16,21 @@ This is a basic calculator built using HTML, CSS, and JavaScript. The project is
 This calculator provides an interactive interface to perform basic arithmetic operations. It includes buttons for numbers, operators, and functionalities like clearing the input and calculating the result. This project demonstrates the use of HTML for structure, CSS for styling, and JavaScript for logic.
 
 # Features
-****Basic arithmetic operations:****
+#### Basic arithmetic operations:
 Addition, subtraction, multiplication, division, and modulus.
-**Clear button (AC):**
+#### Clear button (AC):
 Resets the display to perform new calculations.
-**Equal button (=):**
+#### Equal button (=):
 Evaluates and displays the result of the arithmetic expression.
-**Responsive design:**
+#### Responsive design:
 The calculator is responsive to different screen sizes including mobile, tablet, and desktop.
 
 # Technologies Used
-**HTML:**
+#### HTML:
 To create the structure of the calculator.
-**CSS:**
+#### CSS:
 For styling the calculator interface.
-**JavaScript:**
+#### JavaScript:
 To implement the logic and functionality of the calculator.
 
 
